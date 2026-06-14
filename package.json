@@ -1,0 +1,284 @@
+{
+  "name": "niflheim-theme",
+  "displayName": "Niflheim Theme",
+  "description": "A Norse mythology dark theme collection by Rushabh Shah \u2014 16 unique worlds, each a realm of its own.",
+  "version": "1.0.0",
+  "publisher": "iamrushabhshahh",
+  "author": "Rushabh Shah",
+  "license": "SEE LICENSE IN LICENSE",
+  "icon": "logo.png",
+  "engines": {
+    "vscode": ">=1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "norse",
+    "dark",
+    "niflheim",
+    "material",
+    "theme",
+    "icon theme"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Niflheim \u2014 Niflheim",
+        "path": "./themes/Niflheim.json",
+        "uiTheme": "vs-dark"
+      },
+      {
+        "label": "Niflheim \u2014 Niflheim Fimbul",
+        "path": "./themes/Niflheim-Fimbul.json",
+        "uiTheme": "vs-dark"
+      },
+      {
+        "label": "Niflheim \u2014 Ymir",
+        "path": "./themes/Ymir.json",
+        "uiTheme": "vs-dark"
+      },
+      {
+        "label": "Niflheim \u2014 Ymir Fimbul",
+        "path": "./themes/Ymir-Fimbul.json",
+        "uiTheme": "vs-dark"
+      },
+      {
+        "label": "Niflheim \u2014 Nott",
+        "path": "./themes/Nott.json",
+        "uiTheme": "vs-dark"
+      },
+      {
+        "label": "Niflheim \u2014 Nott Fimbul",
+        "path": "./themes/Nott-Fimbul.json",
+        "uiTheme": "vs-dark"
+      },
+      {
+        "label": "Niflheim \u2014 Aegir",
+        "path": "./themes/Aegir.json",
+        "uiTheme": "vs-dark"
+      },
+      {
+        "label": "Niflheim \u2014 Aegir Fimbul",
+        "path": "./themes/Aegir-Fimbul.json",
+        "uiTheme": "vs-dark"
+      },
+      {
+        "label": "Niflheim \u2014 Yggdrasil",
+        "path": "./themes/Yggdrasil.json",
+        "uiTheme": "vs-dark"
+      },
+      {
+        "label": "Niflheim \u2014 Yggdrasil Fimbul",
+        "path": "./themes/Yggdrasil-Fimbul.json",
+        "uiTheme": "vs-dark"
+      },
+      {
+        "label": "Niflheim \u2014 Hel",
+        "path": "./themes/Hel.json",
+        "uiTheme": "vs-dark"
+      },
+      {
+        "label": "Niflheim \u2014 Hel Fimbul",
+        "path": "./themes/Hel-Fimbul.json",
+        "uiTheme": "vs-dark"
+      },
+      {
+        "label": "Niflheim \u2014 Surt",
+        "path": "./themes/Surt.json",
+        "uiTheme": "vs-dark"
+      },
+      {
+        "label": "Niflheim \u2014 Surt Fimbul",
+        "path": "./themes/Surt-Fimbul.json",
+        "uiTheme": "vs-dark"
+      },
+      {
+        "label": "Niflheim \u2014 Midgard",
+        "path": "./themes/Midgard.json",
+        "uiTheme": "vs-dark"
+      },
+      {
+        "label": "Niflheim \u2014 Midgard Fimbul",
+        "path": "./themes/Midgard-Fimbul.json",
+        "uiTheme": "vs-dark"
+      },
+      {
+        "label": "Niflheim \u2014 Vanaheim",
+        "path": "./themes/Vanaheim.json",
+        "uiTheme": "vs-dark"
+      },
+      {
+        "label": "Niflheim \u2014 Vanaheim Fimbul",
+        "path": "./themes/Vanaheim-Fimbul.json",
+        "uiTheme": "vs-dark"
+      },
+      {
+        "label": "Niflheim \u2014 Jord",
+        "path": "./themes/Jord.json",
+        "uiTheme": "vs-dark"
+      },
+      {
+        "label": "Niflheim \u2014 Jord Fimbul",
+        "path": "./themes/Jord-Fimbul.json",
+        "uiTheme": "vs-dark"
+      },
+      {
+        "label": "Niflheim \u2014 Asgard",
+        "path": "./themes/Asgard.json",
+        "uiTheme": "vs-dark"
+      },
+      {
+        "label": "Niflheim \u2014 Asgard Fimbul",
+        "path": "./themes/Asgard-Fimbul.json",
+        "uiTheme": "vs-dark"
+      },
+      {
+        "label": "Niflheim \u2014 Muspelheim",
+        "path": "./themes/Muspelheim.json",
+        "uiTheme": "vs-dark"
+      },
+      {
+        "label": "Niflheim \u2014 Muspelheim Fimbul",
+        "path": "./themes/Muspelheim-Fimbul.json",
+        "uiTheme": "vs-dark"
+      },
+      {
+        "label": "Niflheim \u2014 Jotunheim",
+        "path": "./themes/Jotunheim.json",
+        "uiTheme": "vs-dark"
+      },
+      {
+        "label": "Niflheim \u2014 Jotunheim Fimbul",
+        "path": "./themes/Jotunheim-Fimbul.json",
+        "uiTheme": "vs-dark"
+      },
+      {
+        "label": "Niflheim \u2014 Valhalla",
+        "path": "./themes/Valhalla.json",
+        "uiTheme": "vs-dark"
+      },
+      {
+        "label": "Niflheim \u2014 Valhalla Fimbul",
+        "path": "./themes/Valhalla-Fimbul.json",
+        "uiTheme": "vs-dark"
+      },
+      {
+        "label": "Niflheim \u2014 Bifrost",
+        "path": "./themes/Bifrost.json",
+        "uiTheme": "vs-dark"
+      },
+      {
+        "label": "Niflheim \u2014 Bifrost Fimbul",
+        "path": "./themes/Bifrost-Fimbul.json",
+        "uiTheme": "vs-dark"
+      },
+      {
+        "label": "Niflheim \u2014 Alfheim",
+        "path": "./themes/Alfheim.json",
+        "uiTheme": "vs-dark"
+      },
+      {
+        "label": "Niflheim \u2014 Alfheim Fimbul",
+        "path": "./themes/Alfheim-Fimbul.json",
+        "uiTheme": "vs-dark"
+      }
+    ],
+    "iconThemes": [
+      {
+        "id": "niflheim-icons-niflheim",
+        "label": "Niflheim Icons \u2014 Niflheim",
+        "path": "./themes/Niflheim-Icons.json"
+      },
+      {
+        "id": "niflheim-icons-ymir",
+        "label": "Niflheim Icons \u2014 Ymir",
+        "path": "./themes/Ymir-Icons.json"
+      },
+      {
+        "id": "niflheim-icons-nott",
+        "label": "Niflheim Icons \u2014 Nott",
+        "path": "./themes/Nott-Icons.json"
+      },
+      {
+        "id": "niflheim-icons-aegir",
+        "label": "Niflheim Icons \u2014 Aegir",
+        "path": "./themes/Aegir-Icons.json"
+      },
+      {
+        "id": "niflheim-icons-yggdrasil",
+        "label": "Niflheim Icons \u2014 Yggdrasil",
+        "path": "./themes/Yggdrasil-Icons.json"
+      },
+      {
+        "id": "niflheim-icons-hel",
+        "label": "Niflheim Icons \u2014 Hel",
+        "path": "./themes/Hel-Icons.json"
+      },
+      {
+        "id": "niflheim-icons-surt",
+        "label": "Niflheim Icons \u2014 Surt",
+        "path": "./themes/Surt-Icons.json"
+      },
+      {
+        "id": "niflheim-icons-midgard",
+        "label": "Niflheim Icons \u2014 Midgard",
+        "path": "./themes/Midgard-Icons.json"
+      },
+      {
+        "id": "niflheim-icons-vanaheim",
+        "label": "Niflheim Icons \u2014 Vanaheim",
+        "path": "./themes/Vanaheim-Icons.json"
+      },
+      {
+        "id": "niflheim-icons-jord",
+        "label": "Niflheim Icons \u2014 Jord",
+        "path": "./themes/Jord-Icons.json"
+      },
+      {
+        "id": "niflheim-icons-asgard",
+        "label": "Niflheim Icons \u2014 Asgard",
+        "path": "./themes/Asgard-Icons.json"
+      },
+      {
+        "id": "niflheim-icons-muspelheim",
+        "label": "Niflheim Icons \u2014 Muspelheim",
+        "path": "./themes/Muspelheim-Icons.json"
+      },
+      {
+        "id": "niflheim-icons-jotunheim",
+        "label": "Niflheim Icons \u2014 Jotunheim",
+        "path": "./themes/Jotunheim-Icons.json"
+      },
+      {
+        "id": "niflheim-icons-valhalla",
+        "label": "Niflheim Icons \u2014 Valhalla",
+        "path": "./themes/Valhalla-Icons.json"
+      },
+      {
+        "id": "niflheim-icons-bifrost",
+        "label": "Niflheim Icons \u2014 Bifrost",
+        "path": "./themes/Bifrost-Icons.json"
+      },
+      {
+        "id": "niflheim-icons-alfheim",
+        "label": "Niflheim Icons \u2014 Alfheim",
+        "path": "./themes/Alfheim-Icons.json"
+      }
+    ],
+    "configuration": {
+      "title": "Niflheim Theme",
+      "properties": {
+        "niflheim.fontFamily": {
+          "type": "string",
+          "default": "'JetBrains Mono', 'JetBrainsMono Nerd Font', monospace",
+          "description": "Recommended font family for Niflheim Theme."
+        }
+      }
+    }
+  },
+  "recommendations": [
+    "iamrushabhshahh.niflheim-theme"
+  ],
+  "extensionDependencies": []
+}
