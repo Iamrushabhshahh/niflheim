@@ -57,15 +57,6 @@ Niflheim ships a matching file icon theme for every realm.
 
 ---
 
-## UI Icons
-
-A custom product icon theme (Niflheim UI Icons) replaces VS Code's default interface icons.
-
-1. `Cmd+Shift+P` → `Preferences: Product Icon Theme`
-2. Select **Niflheim UI Icons**
-
----
-
 ## Recommended Settings
 
 For the best experience, add these to your `settings.json`:
@@ -80,8 +71,7 @@ For the best experience, add these to your `settings.json`:
   "editor.cursorBlinking": "smooth",
   "editor.smoothScrolling": true,
   "workbench.colorTheme": "Niflheim — Niflheim",
-  "workbench.iconTheme": "niflheim-icons-niflheim",
-  "workbench.productIconTheme": "niflheimUIIcons"
+  "workbench.iconTheme": "niflheim-icons-niflheim"
 }
 ```
 

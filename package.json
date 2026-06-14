@@ -7,6 +7,18 @@
   "author": "Rushabh Shah",
   "license": "SEE LICENSE IN LICENSE",
   "icon": "logo.png",
+  "galleryBanner": {
+    "color": "#0A0E14",
+    "theme": "dark"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Iamrushabhshahh/niflheim"
+  },
+  "homepage": "https://github.com/Iamrushabhshahh/niflheim#readme",
+  "bugs": {
+    "url": "https://github.com/Iamrushabhshahh/niflheim/issues"
+  },
   "engines": {
     "vscode": ">=1.70.0"
   },
@@ -277,8 +289,5 @@
       }
     }
   },
-  "recommendations": [
-    "iamrushabhshahh.niflheim-theme"
-  ],
   "extensionDependencies": []
 }
